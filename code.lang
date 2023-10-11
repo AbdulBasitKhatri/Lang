@@ -1,0 +1,7 @@
+a = 1+8 * 9
+b = a + " this is flexible"
+c = ", A mix of lua, python and javascript"
+print(b+c)
+if(a == 73){
+print("I support IF Condition Too!")
+}
